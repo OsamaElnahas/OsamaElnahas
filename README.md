@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama Elnahas</h1>
-<h3 align="center">Software Engineer | Frontend Developer </h3>
+<h3 align="center">Software Engineer | Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Osama Kamal" width="300"/>
