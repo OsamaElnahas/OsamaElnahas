@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 **Frontend Developer** specializing in `React.js`, `Tailwind CSS`, `Bootstrap`, and `JavaScript`.
+- 💻 **Full Stack Developer** specializing in `Asp .NetCore , Angualar, React.js`, `Tailwind CSS`, `Bootstrap`, and `JavaScript`.
 -🎓 Computer Science graduate from Suez Canal University.
 - 🌍 Based in **Port Said, Egypt**, and open to remote opportunities worldwide.
 - 📫 Let’s connect! Reach out via [email](mailto:osamaelnahas43@gmail.com) or [LinkedIn](http://www.linkedin.com/in/osama-elnahas).
